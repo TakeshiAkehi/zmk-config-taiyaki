@@ -181,6 +181,11 @@
             key-positions = <3 13>;
             bindings = <&kp F10>;
         };
+        combo_L_12M {
+            key-positions = <8 9>;
+            bindings = <&mo LPNT>;
+            slow-release;
+        };
 
         // right basic
         combo_R_4TM {
