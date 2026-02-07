@@ -19,8 +19,8 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_ble
+  - board: xiao_ble
     shield: taiyaki
     snippet: zmk-usb-logging
-  # - board: seeeduino_xiao_ble
+  # - board: xiao_ble
   #   shield: settings_reset
